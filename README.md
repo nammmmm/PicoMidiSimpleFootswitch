@@ -215,3 +215,6 @@ Maintenant si vous voulez plus de détails sur la norme en général [https://fr
 Voilà c'est tout. Ne reste plus qu'a mettre ça dans un boitier et à configurer votre logiciel de MAO en attribuant les boutons aux effets souhaités.
 
 Pour info, c'est mon premier test avec python/raspberry/midi. Donc ce n'est peut-être pas empiriquement bien fait, mais ça fonctionne vraiment top chez moi et ça a le mérite d'être simple.
+
+![20230331_193826](https://user-images.githubusercontent.com/20555863/229312715-124cd9dc-9489-4435-bafb-67e2864bb456.jpg)
+![20230331_195737](https://user-images.githubusercontent.com/20555863/229312722-9fa86b80-5ca6-4674-9afc-3bca6d2b1339.jpg)
