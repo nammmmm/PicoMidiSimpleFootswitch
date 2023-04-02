@@ -142,7 +142,7 @@ while True:
             max = 0
             #  Si l'ancienne valeur est "aucune" ou "activé" = envoi de la valeur "0" "désactiver l'effet"
             #  Si l'ancienne valeur est "désactivé" = envoi de la valeur "127" "activer l'effet"
-             if midi_val[i] is True:
+            if midi_val[i] is True:
                 max = 127
                 midi_val[i] = False
             else:
